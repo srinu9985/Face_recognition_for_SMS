@@ -1,0 +1,11 @@
+1) First install python version 3.10.10(which is in this folder)
+
+2) Open the command prompt/terminal in this location i.e., in this folder
+
+3) Check whether python3.10 installed properly or not by typing command in command prompt--> python
+
+4) Type ---> py -3.10 pip install -r requirements.txt --> command to install all necessary modules
+
+5) Now you can run recognize.py file for face_recognition task. To run using command prompt --> py -3.10 recognize.py
+
+Note: Make sure that your command prompt is in the current folder only i.e., in "mini_project-E3"(which you have downloaded or cloned from github) only
